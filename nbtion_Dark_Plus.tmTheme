@@ -2,10 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
 
-    Name:		nbtion_Dark_Plus
-    Author:		nourddine bakour
+    Name:	nbtion_Dark_Plus
+    Author:	nourddine bakour
     License:	Version 1.0
-    URL:		https://github.com/nourddinebakour/nbtion_Dark_Plus
+    URL:	https://github.com/nourddinebakour/nbtion_Dark_Plus
     -----------------------------------------------------------------------
     Base 6 tmTheme for TextMate and Sublime Text
     -----------------------------------------------------------------------
@@ -22,8 +22,8 @@
 	<string>nourddine bakour</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
-	<key>email:</key>
-	<string>nbtion@gmail.com</string>
+	<key>comment</key>
+	<string>https://github.com/nourddinebakour/nbtion_Dark_Plus</string>
 	<key>name</key>
 	<string>nbtion_Dark_Plus</string>
 	<key>semanticClass</key>
